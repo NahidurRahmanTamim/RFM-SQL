@@ -251,8 +251,8 @@ ORDER BY 2 DESC;
 To complement the SQL analysis with visuals:
 1. **Data Import**: Connect Power BI to your SQL database and import the `RFM_Segmentation_data` view.
 2. **Dashboard Setup** :
-   ![Dashboard View](RFM_Analysis.png)
-   - `.pbix` file [RFM_Analysis.pbix](Images/RFM_Analysis.pbix) available for download
+   ![Dashboard View](Images/RFM_Analysis.png)
+   - `.pbix` file [RFM_Analysis.pbix](RFM_Analysis.pbix) fror proper visualization available for download
 
 ## Usage
 1. Clone this repository.
